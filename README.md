@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Master (Computer Science)**
 
-- 💬 Ask me about **Frontend developer , Java , MachineLearning**
+- 💬 Ask me about **Full Stack Developer , MERN Stack , Frontend **
 
 - 📫 How to reach me **morearyan325@gmail.com**
 
