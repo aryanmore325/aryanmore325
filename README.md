@@ -6,8 +6,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aryanmore325&label=Profile%20views&color=0e75b6&style=flat" alt="aryanmore325" />
 </p>
-
-- 🌱 I’m currently learning **Master (Computer Science)**  
+ 
 - 💬 Ask me about **Frontend development, JavaScript, MERN stack, Machine Learning basics**  
 - 📫 Reach me at **morearyan325@gmail.com**
 
