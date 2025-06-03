@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=aryanmore325&label=Profile%20views&color=0e75b6&style=flat" alt="aryanmore325" />
 </p>
  
-- 💬 Ask me about **Frontend development, JavaScript, MERN stack, Machine Learning basics**  
+- 💬 Ask me about **Full Stack Developer, Frontend development, JavaScript, MERN stack, Machine Learning **  
 - 📫 Reach me at **morearyan325@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
